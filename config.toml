@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://hellogortys/"
+baseURL = "https://hellogortys.atlascorp.eu/"
 languageCode = "en-uk"
 defaultContentLanguage = "en-uk"
-title = "Hugo tranquilpeak theme"
+title = "Hello Gortys!"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
